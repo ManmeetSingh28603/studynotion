@@ -16,9 +16,4 @@ Follow these steps to set up the project on your local machine.
 - Node.js installed on your computer
 - A code editor like VS Code
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
